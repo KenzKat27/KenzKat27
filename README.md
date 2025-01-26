@@ -1,6 +1,6 @@
 ## Hello, and welcome to my GitHub!
 
-I'm a computer science student specializing in cybersecurity. My interests include IT operations and security operations. Currently I'm working on gaining some certifications and building my fundamental knowledge base. I occasionally participate in CTFs as well!
+I'm a computer science student specializing in cybersecurity. My interests include IT operations, security operations, and governance, risk, and compliance (GRC). Currently I'm working on gaining some certifications and building my fundamental knowledge base. I occasionally participate in CTFs as well!
 
 <!--
 **KenzKat27/KenzKat27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
